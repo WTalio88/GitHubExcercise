@@ -1,0 +1,38 @@
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+
+body {
+  background-color: blueviolet;
+  font-family: "Open Sans", sans-serif;
+  padding: 5px 25px;
+  font-size: 24px;
+  margin: 0;
+  color: #222;
+}
+
+h1 {
+  font-family: "Merriweather", serif;
+  font-size: 32px;
+}
+
+.katesstyle {
+  font-family: font-family: 'Kavivanar', cursive;
+}
+
+.stylishbox { 
+background-color: =aqua;
+  
+  border-top: 32px;
+  border: 24px solid;
+  border-color: aqua;
+}
+
+.prettybullets {
+  
+  list-style-image: url('https://dzasv7x7a867v.cloudfront.net/product_photos/22194898/grey-tabby-kitty-cat-head-shaped-vinyl-animal-photo-print-clutch-bag-dotoly_original.jpg');
+}
+
+.rightside {
+  float:right
+}
